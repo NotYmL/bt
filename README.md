@@ -8,6 +8,6 @@
 
 ## Installation Guide
 ```sh
-git clone https://github.com/NotYmL/tag-finder.git/ && pip install requests
+git clone https://github.com/NotYmL/bt.git && pip install requests
 ```
 
